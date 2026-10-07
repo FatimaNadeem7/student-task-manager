@@ -4,10 +4,6 @@
 A web-based Student Task Manager for adding, viewing, completing,
 deleting, and searching student tasks.
 
-## Team Members
-- Student 1: [Your Name]
-- Student 2: [Second Contributor's Name]
-
 ## Features
 - Add tasks
 - Task title and description
@@ -81,5 +77,5 @@ First stable release containing the completed Student Task Manager
 features.
 
 ## Contributors
-- [Your Name]
-- [Second Contributor's Name]
+FatimaNadeem7
+FatimaNadeem31
